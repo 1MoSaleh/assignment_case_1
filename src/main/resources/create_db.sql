@@ -1,0 +1,1 @@
+create database stc_technical_task
